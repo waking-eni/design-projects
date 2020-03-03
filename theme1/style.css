@@ -1,0 +1,65 @@
+body
+{
+    background-color: black;
+    overflow: hidden;
+}
+h3
+{
+    color: darkcyan;
+}
+.sidebar
+{
+    max-width: 500px;
+    padding-left: 100px;
+    padding-right: 20px;
+}
+.cyan-p
+{
+    color: #7D9593;
+}
+.nav-link
+{
+    color: #3FC6B8;
+}
+.wrapper
+{
+    padding-top: 100px;
+}
+.main
+{
+    padding-right: 100px;
+    padding-left: 100px;
+    height: 100vh;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.main-card
+{
+    height: 500px;
+    width: 450px;
+    background-color: black;
+}
+.a-link
+{
+    color: #3FC6B8;
+}
+.fa-sync
+{
+    color: #3FC6B8 !important;
+}
+.fa-heart
+{
+    color: #3FC6B8 !important;
+}
+/*hide scrollbar*/
+::-webkit-scrollbar {
+    display: none;
+}
+.page-link
+{
+    background-color: black;
+}
+.p-roboto
+{
+    font-family: 'Roboto Condensed', sans-serif;
+}
