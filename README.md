@@ -1,2 +1,2 @@
 # design-projects
-For practicing Bootstrap
+Mini projects for practicing Bootstrap
